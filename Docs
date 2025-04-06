@@ -12,3 +12,4 @@
 - Click Share.
 - Add the email from your service account JSON key (it looks like something@project-id.iam.gserviceaccount.com).
 - Give Editor access.
+5. Add your Sheet name and JSON key to the code in the 10th and 11th lines
